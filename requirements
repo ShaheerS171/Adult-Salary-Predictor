@@ -1,0 +1,18 @@
+# Core ML & Data Handling
+scikit-learn
+pandas
+numpy
+joblib
+
+# Visualization (for EDA)
+matplotlib
+seaborn
+
+# Model Tuning
+scipy  # for RandomizedSearchCV and GridSearchCV
+
+# Ensemble & Boosting
+xgboost
+
+# Web App
+streamlit
